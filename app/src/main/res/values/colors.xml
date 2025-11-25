@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-</resources>
+
+    <color name="dark_background">#121212</color>
+    <color name="dark_display">#1C1C1C</color>
+    <color name="number_button_color">#505050</color>
+    <color name="operator_button_color">#FF9500</color>
+    <color name="function_button_color">#D4D4D2</color>
+    <color name="equal_button_color">#009688</color>     </resources>
